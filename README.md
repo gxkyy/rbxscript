@@ -18,7 +18,7 @@ You load it, a little window pops up, you hit **Teleport Random Chair**, and boo
 Paste this into your executor:
 
 ```lua
-soon
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gxkyy/rbxscript/refs/heads/main/teleport_chair.lua"))()
 ```
 
 Or just grab the code from [`teleport_chair.lua`](./teleport_chair.lua) and run it directly.
